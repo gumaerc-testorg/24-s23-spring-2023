@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/24-s95-linguistics-in-k-12-education-spring-2023/mit24_s95_s23_th.jpg
+file: courses/linguistics-in-k-12-education/mit24_s95_s23_th.jpg
 file_size: 6185
 file_type: image/jpeg
 image_metadata:

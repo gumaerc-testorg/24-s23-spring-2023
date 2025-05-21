@@ -27,6 +27,7 @@
   },
   "course_title": "Linguistics in K\u201312 Education",
   "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This seminar explored the idea that the study of linguistics can be a means to develop young people's understanding of scientific inquiry as well as their understanding of the nature of language. The challenge of this seminar was to create pedagogical materials and methods that will motivate learners of all ages to be inquisitive about their native language and about language in general. Seminar participants worked with one another and in partnership with K\u201312 teachers to accomplish this goal.",
   "department_numbers": [
     "24"
@@ -40,7 +41,8 @@
   "learning_resource_types": [
     "Instructor Insights",
     "Lecture Notes",
-    "Written Assignments with Examples"
+    "Written Assignments",
+    "Presentation Assignments"
   ],
   "site_uid": "7ac367e2-2d06-47f9-b62c-6d0a8ceae644",
   "site_short_id": "24-s23-spring-2023"
