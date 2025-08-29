@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/linguistics-in-k-12-education/mit24_s95_s23_lec2.pptx
+file: /ol-ocw-studio-app/courses/24-s95-linguistics-in-k-12-education-spring-2023/mit24_s95_s23_lec2.pptx
 file_size: 61298
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Editable Files
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: mit24_S95_s23_lec2.pptx
@@ -21,6 +21,7 @@ video_files:
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''

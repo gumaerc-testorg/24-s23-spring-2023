@@ -42,8 +42,10 @@
     "Instructor Insights",
     "Lecture Notes",
     "Written Assignments",
-    "Presentation Assignments"
+    "Presentation Assignments",
+    "Editable Files"
   ],
   "site_uid": "7ac367e2-2d06-47f9-b62c-6d0a8ceae644",
-  "site_short_id": "24-s23-spring-2023"
+  "site_short_id": "24-s23-spring-2023",
+  "site_url_path": "courses/24-s95-linguistics-in-k-12-education-spring-2023"
 }
