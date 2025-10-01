@@ -12,24 +12,24 @@ uid: 24d0f118-e8bf-40fc-a94d-3fd9ae3b12cf
 - Hale, Ken. 1975. Appendix A: Excerpt from *Navajo Linguistics*. Unpublished manuscript, MIT.
 - Hale, Ken. 1981. "Linguistics and Local Languages in a Science Curriculum for Bilingual/Bicultural Programs." Paper presented at the 6<sup>th</sup> Annual Congress of the Applied Linguistics Association of Australia. Canberra, Australia. 
 - Honda, Maya, Wayne O'Neil, and David Pippin. 2010. "On Promoting Linguistics Literacy: Bringing Language Science to the English Classroom." In Kristin Denham and Anne Lobeck (eds.), *Linguistics at School: Language Awareness in Primary and Secondary Education*, 175–188. Cambridge: Cambridge University Press.
-- Linguistic Society of America [April 2021 Member Spotlight: Amy Plackowski](https://www.linguisticsociety.org/content/april-2021-member-spotlight-amy-plackowski).
+- Linguistic Society of America {{% resource_link "4cf4cbd7-04d5-43af-9bb0-7b5ee22ced8e" "April 2021 Member Spotlight: Amy Plackowski" %}}.
 
 ## Session 2: Linguistics in Secondary Education | Understanding by Design (UbD) 
 
-- Hudson, Richard and Neil Sheldon. 2013. "Linguistics at School: The UK Linguistics Olympiad." *Language and Linguistics Compass,* 7(2). [https://doi.org/10.1111/lnc3.12010](https://doi.org/10.1111/lnc3.12010)
-- Lidz, Jeffrey and Yakov Kronrod. 2014. "Expanding Our Reach and Theirs: When Linguists Go to High School." *Language and Linguistics Compass*, 8(10). [https://doi.org/10.1111/lnc3.12094](https://doi.org/10.1111/lnc3.12094)
-- Loosen, Suzanne. 2014. "High School Linguistics: A Secondary School Elective Course." *Language: Teaching Linguistics*, 90(4): e258–e273. [https://doi.org/10.1353/lan.2014.0072](https://doi.org/10.1353/lan.2014.0072)
+- Hudson, Richard and Neil Sheldon. 2013. "Linguistics at School: The UK Linguistics Olympiad." *Language and Linguistics Compass,* 7(2). {{% resource_link "4074ab7a-b951-4861-be68-e25d7eded679" "https://doi.org/10.1111/lnc3.12010" %}}
+- Lidz, Jeffrey and Yakov Kronrod. 2014. "Expanding Our Reach and Theirs: When Linguists Go to High School." *Language and Linguistics Compass*, 8(10). {{% resource_link "51f60153-a4fe-4a43-935e-0dc24c849914" "https://doi.org/10.1111/lnc3.12094" %}}
+- Loosen, Suzanne. 2014. "High School Linguistics: A Secondary School Elective Course." *Language: Teaching Linguistics*, 90(4): e258–e273. {{% resource_link "f5daf499-0b8b-43c7-b3c9-b9f7b6f10539" "https://doi.org/10.1353/lan.2014.0072" %}}
 - Mulder, Jean. 2010. "Envisioning Linguistics in Secondary Education: An Australian Exemplar." In Kristin Denham and Anne Lobeck (eds.), *Linguistics at School: Language Awareness in Primary and Secondary Education*, 62–75. Cambridge: Cambridge University Press.
-- Plackowski, Amy L. 2020. "Using Understanding by Design to Build a High School Linguistics Course." *American Speech*, 95(2): 235–242. [https://doi.org/10.1215/00031283-8501379](https://doi.org/10.1215/00031283-8501379)
-- Wiggins, Grant. 2012. ["What is UbD? Grant Wiggins Answers, with Cases."](https://www.youtube.com/watch?v=WsDgfC3SjhM) YouTube. 
+- Plackowski, Amy L. 2020. "Using Understanding by Design to Build a High School Linguistics Course." *American Speech*, 95(2): 235–242. {{% resource_link "740176a0-863e-496b-aa53-101c92c9c778" "https://doi.org/10.1215/00031283-8501379" %}}
+- Wiggins, Grant. 2012. {{% resource_link "5d3825ba-8084-4a8d-a3aa-16259a32cdfe" "\"What is UbD? Grant Wiggins Answers, with Cases.\"" %}} YouTube. 
 - Wiggins, Grant and Jay McTighe. 2011. Introduction and modules A–D. In *The Understanding by Design Guide to Creating High-Quality Units*. Alexandria, VA: Association for Supervision and Curriculum Development (ASCD).
 
 ## Session 3: Introductory Linguistics: Desired Results | UbD, continued 
 
 - Larson, Richard. 2023. "Rethinking Introductory Linguistics." Unpublished manuscript (revision 2). 
-- Spring, Cari L., Michael J. Flynn, Brian D. Joseph, Rae Moses, Susan Steele, and Charlotte Webb. 2000. "The Successful Introductory Course: Bridging the Gap for the Nonmajor." *Language*, 76(1): 110–122. [https://doi.org/10.1353/lan.2000.0124](https://doi.org/10.1353/lan.2000.0124)  
+- Spring, Cari L., Michael J. Flynn, Brian D. Joseph, Rae Moses, Susan Steele, and Charlotte Webb. 2000. "The Successful Introductory Course: Bridging the Gap for the Nonmajor." *Language*, 76(1): 110–122. {{% resource_link "6700cdef-31e0-4cc3-b17f-23ccf6aa998f" "https://doi.org/10.1353/lan.2000.0124" %}}  
 - Wiggins, Grant and Jay McTighe. 2011. Modules E–H. In *The Understanding by Design Guide to Creating High-Quality Units*. Alexandria, VA: ASCD.
-- [Essential Questions Overview](https://www.youtube.com/watch?v=lcYsi81PADU). (YouTube). 
+- {{% resource_link "9ae80d98-63a0-4860-b581-eb83bbda33b6" "Essential Questions Overview" %}}. (YouTube). 
 - Linguistics teaching materials to be assigned for review. 
 
 ## Session 4: Introductory Linguistics: Evidence of Understanding and Learning Plan | UbD, continued | Designing a Lesson for Spring Spark 
@@ -61,7 +61,7 @@ Please upload your reflection essay (300–500 words) to the class website by 10
 - Denham, Kristin. 2010. "Linguistics in a Primary School." In Kristin Denham and Anne Lobeck (Eds.), *Linguistics at School: Language Awareness in Primary and Secondary Education,* 189–203. Cambridge: Cambridge University Press.  
 - Goodluck, Helen. 1991. "More Linguistics for 10-Year-Olds." *Innovations in Linguistic Education*, 5(2): 35–41.
 - Keyser, Samuel Jay. 1970. "The Role of Linguistics in the Elementary School Curriculum." *Elementary English*, 47: 39–45.  
-- Oppenheimer, Kathleen, Lauren K. Salig, Craig A. Thorburn, and Erika L. Exton. 2022. "Taking Language Science to Zoom School: Virtual Outreach to Elementary School Students." *Language and Linguistics Compass*, 16(9). [https://doi.org/10.1111/lnc3.12471](https://doi.org/10.1111/lnc3.12471) 
+- Oppenheimer, Kathleen, Lauren K. Salig, Craig A. Thorburn, and Erika L. Exton. 2022. "Taking Language Science to Zoom School: Virtual Outreach to Elementary School Students." *Language and Linguistics Compass*, 16(9). {{% resource_link "32c7921e-a134-4057-8994-2e8375b16212" "https://doi.org/10.1111/lnc3.12471" %}} 
 
 ## Session 8: Standards in K–12 Education | Designing a Unit on Externalization 
 
@@ -74,9 +74,9 @@ Please upload your reflection essay (300–500 words) to the class website by 10
 
 ## Session 10: Linguistics Out of School | Designing a Unit on Language Growth and Development 
 
-- Farris-Trimble, Ashley and Danica Reid. 2019. "Little Linguists: A Model for Engaging University Students and Elementary Schoolers in a Day Camp Setting." *Language and Linguistics Compass*, 13(6). [https://doi.org/10.1111/lnc3.12342](https://doi.org/10.1111/lnc3.12342)  
-- McGory, Julia Tevis and Jefferson Barlew. 2020. "Linguistics for High Schoolers: A Summer Camp Model." *Language and Linguistics Compass*, 14(11). [https://doi.org/10.1111/lnc3.12397](https://doi.org/10.1111/lnc3.12397)  
-- Wagner, Laura, Shari R. Speer, Leslie C. Moore, Elizabeth A. McCullough, Kiwako Ito, Cynthia G. Clopper, and Kathryn Campbell-Kibler. 2015. "Linguistics in a Science Museum: Integrating Research, Teaching, and Outreach at the Language Sciences Research Lab." *Language and Linguistics Compass*, 9(10). [https://doi.org/10.1111/lnc3.12164](https://doi.org/10.1111/lnc3.12164)  
+- Farris-Trimble, Ashley and Danica Reid. 2019. "Little Linguists: A Model for Engaging University Students and Elementary Schoolers in a Day Camp Setting." *Language and Linguistics Compass*, 13(6). {{% resource_link "63382c78-2e77-4bb4-8936-3b4ada8d7c0e" "https://doi.org/10.1111/lnc3.12342" %}}  
+- McGory, Julia Tevis and Jefferson Barlew. 2020. "Linguistics for High Schoolers: A Summer Camp Model." *Language and Linguistics Compass*, 14(11). {{% resource_link "0fa36d75-4549-4b37-a85f-90d5feb8d333" "https://doi.org/10.1111/lnc3.12397" %}}  
+- Wagner, Laura, Shari R. Speer, Leslie C. Moore, Elizabeth A. McCullough, Kiwako Ito, Cynthia G. Clopper, and Kathryn Campbell-Kibler. 2015. "Linguistics in a Science Museum: Integrating Research, Teaching, and Outreach at the Language Sciences Research Lab." *Language and Linguistics Compass*, 9(10). {{% resource_link "9ec8030d-bd4b-43a5-8d11-66fd382db823" "https://doi.org/10.1111/lnc3.12164" %}}  
 
 ## Session 11: Reflecting on Teaching Linguistically | Designing a Unit on Language Variation  
 
