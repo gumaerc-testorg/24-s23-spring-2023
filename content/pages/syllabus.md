@@ -31,7 +31,7 @@ This course is offered in the context of a revitalized MIT Linguistics initiativ
 This course is designed to enable you to do the following:
 
 - Analyze case studies of K–12 linguistics through the lens of curriculum design
-- Design and present a linguistics "unit" (course/unit/lesson) within the [Understanding by Design (UbD)](https://files.ascd.org/staticfiles/ascd/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf) framework of “backwards” course design, which involves identifying "desired results," determining "evidence of understanding," and developing a "learning plan" and "learning events"
+- Design and present a linguistics "unit" (course/unit/lesson) within the {{% resource_link "d562f8a7-819f-4d32-913d-2607376488dd" "Understanding by Design (UbD)" %}} framework of “backwards” course design, which involves identifying "desired results," determining "evidence of understanding," and developing a "learning plan" and "learning events"
 - Engage learners in linguistic inquiry by using effective instructional practices
 - Collaborate with others by giving and receiving feedback on unit design and co-teaching
 - Deepen your thinking about core linguistic concepts through reflection on curriculum
@@ -49,7 +49,7 @@ We will spend much of class learning by doing: learning the UbD framework by des
 
 #### Design and Teaching Experience I: Spring Spark
 
-Our class will participate in Spring [Spark](https://esp.mit.edu/learn/Spark/index.html), a 2-day-long, weekend program at MIT hosted by the student-run MIT Educational Studies Program. We will register as a group to cooperatively teach two sections of Language Science.
+Our class will participate in Spring {{% resource_link "2c2e0640-3abd-48a2-9290-b2076021818a" "Spark" %}}, a 2-day-long, weekend program at MIT hosted by the student-run MIT Educational Studies Program. We will register as a group to cooperatively teach two sections of Language Science.
 
 #### Design and Teaching Experience II: A Linguistics Lesson in a Partner Teacher’s Class
 
@@ -69,7 +69,7 @@ This course will involve a good deal of work with class colleagues. I encourage 
 
 ### Academic Integrity
 
-I will hold all members of this class to the high standard of academic integrity that is expected of students at MIT. I expect that you will submit work that you have done yourself and that you will acknowledge the sources that you use and the contributions of others to your work. (See A Note about Collaboration, above.) It is important that you know, understand, and uphold MIT’s policies regarding academic integrity, which are available at [Academic Integrity at MIT: A Handbook for Students](https://integrity.mit.edu/handbook/academic-integrity-handbook). If you have any questions about these policies, please speak with me.
+I will hold all members of this class to the high standard of academic integrity that is expected of students at MIT. I expect that you will submit work that you have done yourself and that you will acknowledge the sources that you use and the contributions of others to your work. (See A Note about Collaboration, above.) It is important that you know, understand, and uphold MIT’s policies regarding academic integrity, which are available at {{% resource_link "b5755322-250d-4990-8394-90f2fcbe1add" "Academic Integrity at MIT: A Handbook for Students" %}}. If you have any questions about these policies, please speak with me.
 
 ### Diversity
 

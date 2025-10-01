@@ -7,8 +7,8 @@ file_size: 6185
 file_type: image/jpeg
 image_metadata:
   caption: ''
-  credit: 'Photo courtesy of [Renato Valenzuela](https://www.flickr.com/photos/94055276@N00/2688512093)
-    on Flickr. License: CC BY-NC-SA.'
+  credit: 'Photo courtesy of {{% resource_link "31ad0faf-7486-4719-9b95-8ac39a737c3d"
+    "Renato Valenzuela" %}} on Flickr. License: CC BY-NC-SA.'
   image-alt: A large number of parked schoolbuses
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

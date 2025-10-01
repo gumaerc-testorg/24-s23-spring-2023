@@ -6,7 +6,7 @@ draft: false
 title: 'Design and Teaching Experience I: Spring Spark'
 uid: 51c53b44-d215-4dcb-a85c-caf1262c4817
 ---
-Our class will participate in Spring [Spark](https://esp.mit.edu/teach/Spark/index.html), a 2-day-long, weekend program at MIT hosted by the student-run MIT Educational Studies Program. This annual event is impressive in its size and scope: roughly 300 teachers offer about 250 classes on all sorts of topics to around 1,000 seventh and eighth graders.
+Our class will participate in Spring {{% resource_link "bcd22f9f-0bcc-431c-a7a0-4b933aa3d7bf" "Spark" %}}, a 2-day-long, weekend program at MIT hosted by the student-run MIT Educational Studies Program. This annual event is impressive in its size and scope: roughly 300 teachers offer about 250 classes on all sorts of topics to around 1,000 seventh and eighth graders.
 
 Spring Spark will take place Saturday, March 18, and Sunday, March 19. We will register as a group to cooperatively teach two sections of Language Science, so please hold these dates open.
 

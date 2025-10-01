@@ -11,10 +11,10 @@ image_metadata:
     this pronunciation is part of the large database of linguistic information that
     speakers of English generally learn in early childhood without formal instruction.
     By later childhood, students can potentially use that database as the object of
-    formal scientific inquiry. (Photo courtesy of [Renato Valenzuela](https://www.flickr.com/photos/94055276@N00/2688512093)
-    on Flickr. License: CC BY-NC-SA.)'
-  credit: 'Photo courtesy of [Renato Valenzuela](https://www.flickr.com/photos/94055276@N00/2688512093)
-    on Flickr. License: CC BY-NC-SA.'
+    formal scientific inquiry. (Photo courtesy of {{% resource_link "31ad0faf-7486-4719-9b95-8ac39a737c3d"
+    "Renato Valenzuela" %}} on Flickr. License: CC BY-NC-SA.)'
+  credit: 'Photo courtesy of {{% resource_link "31ad0faf-7486-4719-9b95-8ac39a737c3d"
+    "Renato Valenzuela" %}} on Flickr. License: CC BY-NC-SA.'
   image-alt: A large number of parked schoolbuses
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
